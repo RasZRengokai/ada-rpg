@@ -78,15 +78,15 @@ global.fpagedoc = '444'
 
 //global sosialmedia oscar
 global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/JarotOffc?tab=repositories"
-global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.gc = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/Jarotr_'
-global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
-global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
+global.sgc = 'Ga Ada Gc'
+global.gc = '⫹⫺ Nih Jangan Lupa Join Ga ada Gc'
+global.instagram = '⫹⫺ Nih Jangan Lupa Follow Ga ada IG'
+global.ytowner = '⫹⫺ Jangan Lupa Subscribe Ga ada YT'
+global.gc2 = '⫹⫺ Nih Jangan Lupa Join Ga ada Gc'
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = 'Rasz'
+global.author = 'Rasz'
+global.wm = '© Rasz'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
